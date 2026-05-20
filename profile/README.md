@@ -1,6 +1,6 @@
 # About us
 
-Ekumen is an international engineering company based in Argentina, with legal entities in the US and Germany, and a team distributed in Latin America and Europe. Our mission is to bridge top-level technology companies with engineering talent from across the globe. 
+Ekumen is an international engineering company — part of Grid Dynamics (Nasdaq: GDYN), a premier AI transformation partner for the Fortune 1000 — with a team distributed in Latin America and Europe.
 
 We provide remote engineering teams tailored to the needs of each project. We have a proven track record of success in team augmentation and
 independent team modalities, and our 10-year track record includes boosting top-notch robotic and cutting-edge technology projects all across the globe.
